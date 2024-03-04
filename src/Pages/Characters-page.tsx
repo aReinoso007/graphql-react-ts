@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { Card, Col, Row } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import { useCharacters } from "../Hooks/useCharacters";
